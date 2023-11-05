@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 </p>
 
 ### **<ins>My public repositories status<ins>**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=algolia&layout=compact" alt="NirbanPal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirbanPal&theme=algolia&layout=compact" alt="NirbanPal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirbanPal&theme=algolia&show_icons=true" alt="NirbanPal" /></p> 
 

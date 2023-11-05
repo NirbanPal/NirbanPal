@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Some of my projects are available at https://github.com/NirbanPal
 
-- 💬 Ask me about **Python, Django, DRF, Javascript, Web Development**
+- 💬 Ask me about **Python, Django, DRF, SQL, Javascript, Web Development**
 
 - 📫 How to reach me **paulnirban007@gmail.com**
 
-- ⚡ Fun fact **Keep Learning**
+- ⚡ Fun fact **Challenges Like Me, I Can't Avoid.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -69,30 +69,22 @@ Here are some ideas to get you started:
 <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="mongodb" width="" height=""/></a>
 <a href="https://supabase.com/docs" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="" width="" height="supabase"/></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" width="" height=""/></a>
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="" height=""/></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" width="" height=""/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" width="" height=""/></a>
+
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="" width="" height=""/></a>
 <a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="" width="" height=""/></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="" height=""/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="" height=""/></a>
-
-
 <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" width="" height=""/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" width="" height=""/></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" width="" height=""/></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" width="" height=""/></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="" width="" height=""/></a>
+
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="" width="" height=""/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="" width="" height=""/></a>
-
-
-
-
-
-
-
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="" height=""/></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" width="" height=""/></a>
 <!--
@@ -112,7 +104,7 @@ Here are some ideas to get you started:
 </p>
 
 ### **<ins>My public repositories status<ins>**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirbanPal&theme=algolia&layout=compact" alt="NirbanPal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirbanPal&theme=algolia&layout=compact" alt="NirbanPal" height="100%" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirbanPal&theme=algolia&show_icons=true" alt="NirbanPal" /></p> 
 

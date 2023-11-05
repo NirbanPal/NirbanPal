@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Application Project
 
-- 🌱 I’m currently learning **Docker, AWS**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 

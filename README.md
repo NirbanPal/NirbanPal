@@ -101,15 +101,17 @@ Here are some ideas to get you started:
 
 
 
-
+**I have contibuted more in the private repository than public repository**
+<p height="30%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NirbanPal&" alt="NirbanPal" height="" width="100%" /></p>
 
 </p>
 
+**My public repository status**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NirbanPal&show_icons=true&locale=en&layout=compact" alt="NirbanPal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirbanPal&show_icons=true&locale=en" alt="NirbanPal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NirbanPal&" alt="NirbanPal" /></p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=NirbanPal&theme=algolia&show_icons=true)](https://github.com/NirbanPal)
 

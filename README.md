@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **NirbanPal/NirbanPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/nirban-pal-1ab805218/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="NirbanPal" height="40" width="60" /></a>
 <a href="https://www.hackerrank.com/profile/paulnirban007" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="NirbanPal" height="30" width="40" /></a>
 
+<!--
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,3 +54,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankanmitra2002&show_icons=true&locale=en" alt="ankanmitra2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankanmitra2002&" alt="ankanmitra2002" /></p>
+-->

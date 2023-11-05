@@ -60,7 +60,9 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="" height=""/></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" width="" height=""/></a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="express" width="" height=""/></a>
+<a href="https://developers.zoom.us/docs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom" width="" height=""/></a>
 <a href="https://razorpay.com/docs/#home-payments" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="" width="" height=""/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" width="" height=""/></a>
 
 <a href="https://mariadb.org/documentation/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" width="" height=""/></a>
 <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="" height=""/></a>
@@ -97,6 +99,9 @@ Here are some ideas to get you started:
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" width="" height=""/></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="java" width="" height=""/></a>
 -->
+
+
+
 
 
 

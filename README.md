@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Tools and Technologies:</h3>
 <p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" width="" height=""/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" width="" height=""/></a> 
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" width="" height=""/></a> 
@@ -91,10 +91,13 @@ Here are some ideas to get you started:
 
 
 
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="" height=""/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="" height=""/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="" height=""/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="" height=""/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="" height=""/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" width="" height=""/></a>
+<!--
+<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" width="" height=""/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="java" width="" height=""/></a>
+-->
+
 
 
 

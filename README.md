@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="web_dev" width="38%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
-- 🔭 I’m currently working on Freelance Project
+- 🔭 I’m currently working on Web Application Project
 
 - 🌱 I’m currently learning **Docker, AWS**
 
@@ -106,12 +106,12 @@ Here are some ideas to get you started:
 
 
 
-#### **<ins>I have contibuted more in private repositories than public repositories<ins>**
+### **<ins>I have contibuted more in private repositories than public repositories<ins>**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NirbanPal&theme=algolia" alt="NirbanPal" width="70%" /></p>
 
 </p>
 
-#### **<ins>My public repositories status<ins>**
+### **<ins>My public repositories status<ins>**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=algolia&layout=compact" alt="NirbanPal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirbanPal&theme=algolia&show_icons=true" alt="NirbanPal" /></p> 

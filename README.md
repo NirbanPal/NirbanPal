@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Some of my projects are available at https://github.com/NirbanPal
 
-- 💬 Ask me about **Python, Django, DRF, Java, Javascript, Web Development**
+- 💬 Ask me about **Python, Django, DRF, Javascript, Web Development**
 
 - 📫 How to reach me **paulnirban007@gmail.com**
 
@@ -106,17 +106,14 @@ Here are some ideas to get you started:
 
 
 
-**I have contibuted more in the private repository than public repository**
-<p height="30%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NirbanPal&" alt="NirbanPal" height="" width="100%" /></p>
+#### **<ins>I have contibuted more in private repositories than public repositories<ins>**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NirbanPal&theme=algolia" alt="NirbanPal" width="70%" /></p>
 
 </p>
 
-**My public repository status**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NirbanPal&show_icons=true&locale=en&layout=compact" alt="NirbanPal" /></p>
+#### **<ins>My public repositories status<ins>**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=algolia&layout=compact" alt="NirbanPal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirbanPal&show_icons=true&locale=en" alt="NirbanPal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirbanPal&theme=algolia&show_icons=true" alt="NirbanPal" /></p> 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=NirbanPal&theme=algolia&show_icons=true)](https://github.com/NirbanPal)
 

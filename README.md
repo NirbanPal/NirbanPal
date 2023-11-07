@@ -101,8 +101,8 @@ Here are some ideas to get you started:
 
 
 ### **<ins>I have contibuted more in private repositories than public repositories<ins>**
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NirbanPal&theme=algolia" alt="NirbanPal" width="70%" /></p>
-
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NirbanPal&theme=algolia" alt="NirbanPal" width="70%" /></p>
 </p>
 
 ### **<ins>My public repositories status<ins>**

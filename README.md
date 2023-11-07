@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="web_dev" width="38%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
-- 🔭 I’m currently working on Web Application Project
+- 🔭 I’m currently working on Web development Project
 
 - 🌱 I’m currently learning **to cope up with any kind of problems**
 

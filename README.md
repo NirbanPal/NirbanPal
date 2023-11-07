@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development Project
 
-- 🌱 I’m currently learning **to cope up with any kind of problems**
+- 🌱 I’m currently learning **to cope up with any kind of development problems**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 

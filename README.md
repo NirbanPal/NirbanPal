@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" width="" height=""/></a>
 <!--
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" width="" height=""/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="java" width="" height=""/></a>
+
 -->
 </p>
 

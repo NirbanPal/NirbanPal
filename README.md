@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 <a href="https://blog.getbootstrap.com/2019/11/28/bootstrap-4-4-1/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="" height=""/></a> 
 <a href="https://tailwindcss.com/docs/installation" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" width="" height=""/></a> 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" width="" height=""/></a>
+<a href="https://www.wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" width="" height=""/></a>
   
 <a href="https://www.w3schools.com/jquery/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" width="" height=""/></a>
 <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="" width="" height=""/></a>

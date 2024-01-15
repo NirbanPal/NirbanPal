@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://media.licdn.com/dms/image/D4D16AQEBh8HgIwZXTA/profile-displaybackgroundimage-shrink_350_1400/0/1686579983694?e=1704931200&v=beta&t=zCwq6zc8Hun5M9E72oo4EBu1Io55mChjEECY1K3IQas">
+<img align="center" width="1000" src="https://i.ibb.co/WtxSKb2/1686579983694.jpg">
 
 <h1 align="center">Hi 👋, I'm Nirban Pal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>

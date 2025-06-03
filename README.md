@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Some of my projects are available at https://github.com/NirbanPal
 
-- 💬 Ask me about **Python, Django, DRF, SQL, Javascript, Web Development**
+- 💬 Ask me about **Java, SpringBoot, Python, Django, SQL, Web Development**
 
 - 📫 How to reach me **paulnirban007@gmail.com**
 
